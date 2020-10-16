@@ -8,10 +8,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-herickherick47@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herickherick47@gmail.com)](mailto:herickherick47@gmail.com)
 
 ---
-<div align="center"> 
 <img align="center" alt="Herick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hericke47&show_icons=true&hide_border=true&theme=radical" />
-
-</div>
- 
 <br />
 
