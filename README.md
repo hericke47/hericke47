@@ -9,5 +9,5 @@
 
 ---
 <img align="center" alt="Herick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hericke47&show_icons=true&hide_border=true&theme=radical" />
-<br />
+
 
