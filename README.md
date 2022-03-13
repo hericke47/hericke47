@@ -1,7 +1,7 @@
 <h1>Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> I'm Herick Exterkoetter</h1>
 
-<p >Self-taught Developer. Enthusiast of web and mobile development technologies.</p>
-<p>Passionate about education and teaching about programming.</p>
+<p >Self-taught Developer. Enthusiast of web and mobile development technologies.
+Passionate about education and teaching about programming.</p>
 
 # Talk to me:
 
